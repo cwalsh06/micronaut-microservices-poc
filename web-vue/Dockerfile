@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.23
 MAINTAINER ASC-LAB
 
 ENV \
